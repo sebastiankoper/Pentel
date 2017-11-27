@@ -1,0 +1,14 @@
+section{
+  background-color: red;
+  text-align: center;
+  width: 50px;
+  color: white;
+}
+
+p{
+  color: grey;
+}
+
+body{
+  background-color: #39C5FF;
+}
