@@ -1,0 +1,34 @@
+<!DOCTYPE html
+    PUBLIC "-//W3C//DTD XHTML 1.1 plus MathML 2.0//EN"
+    "http://www.w3.org/Math/DTD/mathml2/xhtml-math11-f.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>MathML - przykład #2</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  </head>
+<body>
+
+<p>
+Wzór na wysokość trójkąta równobocznego:
+</p>
+
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mi>h</mi>
+    <mo>=</mo>
+    <mfrac>
+      <mrow>
+        <mi>a</mi>
+        <msqrt>
+          <mrow>
+            <mn>3</mn>
+          </mrow>
+        </msqrt>
+      </mrow>
+      <mrow>2</mrow>
+    </mfrac>
+  </mrow>
+</math>
+
+</body>
+</html>
